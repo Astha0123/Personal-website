@@ -4,7 +4,7 @@ This website serves as my online portfolio, providing visitors with information 
 
 #Link of Project: https://peppy-pothos-48b78d.netlify.app
 
-#Technologies Used
+#Technologies Used: 
 HTML
 CSS
 
